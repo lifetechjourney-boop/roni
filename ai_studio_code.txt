@@ -1,0 +1,6 @@
+{
+  "name": "rashid-ecommerce-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Professional eCommerce Manager Portfolio for Rashid"
+}
